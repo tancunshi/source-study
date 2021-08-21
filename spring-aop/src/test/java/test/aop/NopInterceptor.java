@@ -29,7 +29,7 @@ public class NopInterceptor implements MethodInterceptor {
 	private int count;
 
 	/**
-	 * @see MethodInterceptor#invoke(MethodInvocation)
+	 * @see org.aopalliance.intercept.MethodInterceptor#invoke(MethodInvocation)
 	 */
 	public Object invoke(MethodInvocation invocation) throws Throwable {
 		increment();
