@@ -12,6 +12,7 @@
         <module>spring-3.x</module>
         <module>spring-aop</module>
         <module>spring-beans</module>
+        <module>spring-context</module>
     </modules>
 
     <build>
