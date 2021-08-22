@@ -16,6 +16,7 @@
         <module>spring-core</module>
         <module>spring-web</module>
         <module>spring-mvc</module>
+        <module>spring-jdbc</module>
     </modules>
 
     <build>
